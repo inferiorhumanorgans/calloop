@@ -1,0 +1,14 @@
+var ALIASES = {};
+ALIASES['calloop'] = {};
+ALIASES['calloop'] = {};
+ALIASES['calloop'] = {};
+ALIASES['calloop'] = {};
+ALIASES['calloop'] = {};
+ALIASES['calloop'] = {};
+ALIASES['calloop'] = {};
+ALIASES['calloop'] = {};
+ALIASES['calloop'] = {};
+ALIASES['calloop'] = {};
+ALIASES['calloop'] = {};
+ALIASES['calloop'] = {};
+ALIASES['calloop'] = {};
